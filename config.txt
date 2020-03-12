@@ -1,4 +1,4 @@
-core.symlinks=false
+﻿core.symlinks=false
 core.autocrlf=true
 core.fscache=true
 color.diff=auto
